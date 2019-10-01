@@ -11,10 +11,12 @@ header{
     text-align: center;
     background: #ebebeb;
     font-size: 18px;
+    padding: 40px;
 }
 nav{
     text-align: center;
-    background: #ebebeb;   
+    background: #ebebeb;
+    margin-top: 10px;  
 }
 section, 
 aside,
